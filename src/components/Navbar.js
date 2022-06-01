@@ -55,6 +55,7 @@ Navbar.propTypes = {
   title: PropTypes.string,
 };
 
+//USing default if there are no props
 Navbar.defaultProps ={
   title: 'textUtils'
 }
